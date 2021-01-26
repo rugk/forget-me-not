@@ -48,7 +48,7 @@
     "chai": "^4.1.2",
     "markdown-it": "^8.4.0",
     "mocha": "^4.0.1",
-    "node-sass": "^4.6.0",
+    "node-sass": "^4.13.1",
     "npm-run-all": "^4.1.2",
     "nyc": "^11.7.1",
     "punycode": "^2.1.0",
